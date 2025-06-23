@@ -102,7 +102,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-name="24 TV" tvg-id="40" tvg-id="24TV.tr" tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="HABER",24
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1 tvg-name="ULKE TV" tvg-id="UlkeTV.tr" tvg-logo="https://i.ibb.co/zG9kTh6/ulke-tv.png" group-title="HABER",ULKE TV
-https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 tvg-name="A HABER" tvg-id="AHaber.tr" tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="HABER",A HABER
 https://b.fulltvizle.com/ahaber/playlist.m3u8
 #EXTINF:-1 tvg-name="TGRT HABER HD" tvg-id="TGRTHaber.tr" tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
@@ -125,12 +125,10 @@ http://185.234.111.229:8000/play/a06f
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 tvg-name="A PARA HD" tvg-id="APara.tr" tvg-logo="https://i.ibb.co/FnT7ftQ/a-para.png" group-title="HABER",A PARA HD
 https://b.fulltvizle.com/ahaber/playlist.m3u8
-#EXTINF:-1 tvg-name="EKOTURK" tvg-id="Ekoturk.tr" tvg-logo="https://i.ibb.co/F4csSTY/ekoturk.png" group-title="HABER",EKOTURK
-https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 #EXTINF:-1 tvg-name="TURKHABER" tvg-id="TurkHaberTV.tr" tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="HABER",TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Flash TV" tvg-id="FlashTV.tr" tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="HABER",FLASH HABER
-https://ythls.kekikakademi.org/youtube/channel/UCNcjCb2RnA3eMMhTZSxZu3A.m3u8
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
 
 #EXTINF:-1 tvg-name="Number 1 TV" tvg-id="Number1TV.tr" tvg-logo="https://i.ibb.co/sybLTBG/nr1.png" group-title="MUZIK",NR1
