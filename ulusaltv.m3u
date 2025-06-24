@@ -25,8 +25,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-id="Kanal7.tr" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-name="KANAL B" tvg-id="KanalB.tr" tvg-logo="https://i.ibb.co/X7zxL8v/knlb.png" group-title="ULUSAL",KANAL B
-https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 #EXTINF:-1 tvg-name="TV 5" tvg-id="Tv5.tr" tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="ULUSAL",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1 tvg-name="EURO D" tvg-id="EuroD.tr" tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
