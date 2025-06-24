@@ -132,8 +132,6 @@ https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 
 #EXTINF:-1 tvg-name="TRT WORLD" tvg-id="TrtWORLD.tr" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="İNGİLİZCE HABER",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="EURO NEWS" tvg-id="EuroNEWS.tr" tvg-logo="https://i.ibb.co/R4xVMYc/enews.png" group-title="İNGİLİZCE HABER",EURONEWS
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 #EXTINF:-1 tvg-name="CNN INT" tvg-id="CnnINT.tr" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="İNGİLİZCE HABER",CNN INT
 https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8
 #EXTINF:-1 tvg-name="BBC NEWS" tvg-id="BbcNEWS.tr" tvg-logo="https://i.ibb.co/dPmZMqq/bbcn.png" group-title="İNGİLİZCE HABER",BBC NEWS
